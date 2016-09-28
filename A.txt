@@ -6,6 +6,17 @@ SScs123456master
 sds
 sd
 }
+<<<<<<< HEAD
 sssd2
+=======
+<<<<<<< HEAD
+
+99999
+oooo
+
+=======
+sssd3
+>>>>>>> master
+>>>>>>> fan2
 
 }
