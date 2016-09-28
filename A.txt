@@ -2,7 +2,7 @@ class A{
 public static void main(String[] args) { 
 
 
-SScs
+SScs123456fan2
 sds
 sd
 }
